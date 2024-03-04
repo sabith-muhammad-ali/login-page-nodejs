@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&family=Montserrat&family=Noto+Sans:wght@200;300&family=Poppins:wght@300;400;500&family=Roboto:ital,wght@0,100;0,400;1,300&display=swap');
+
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-image:url('/assets/login.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: 1em 2em;
+}
+
+form{
+    padding: 01em;
+}
+
+#login.title>span{
+    font-size: 4em;
+}
